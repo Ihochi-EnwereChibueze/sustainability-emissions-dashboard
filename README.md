@@ -1,5 +1,5 @@
 # Overview of the Sustainability-Emissions-Dashboard
-This project examines the balance between renewable and non-renewable energy consumption, energy costs, and carbon emissions across Atlanta, Chicago, and New York in Q4 2023 and Q4 2024. The findings highlights city-level performance, provide insights into urban sustainability performance, efficiency challenges, and opportunities for accelerating the transition to cleaner energy sources
+This project delivers a comparative analysis of renewable and non-renewable energy consumption, energy costs, and carbon emissions across Atlanta, Chicago, and New York in Q4 2023 and Q4 2024. The findings highlights city-level performance, provide insights into urban sustainability performance, efficiency challenges, and opportunities for accelerating the transition to cleaner energy sources
 
 ## Dashboard
 <img width="921" height="517" alt="Sustainabilty   Emissions Dashboard" src="https://github.com/user-attachments/assets/0829e9b6-dc3d-4ae5-97cf-5ce61aa7587a" />
